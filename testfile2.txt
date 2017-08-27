@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added from branch2
+=======
+added from master
+>>>>>>> master
